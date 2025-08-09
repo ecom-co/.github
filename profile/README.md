@@ -29,10 +29,14 @@ Our backend is powered by:
 | Repository | Description |
 |------------|-------------|
 | **ecom-backend** | Core backend services powering APIs and data flows |
-| **lib-eslint-config** | Shared ESLint configuration for consistent code quality |
 
 *(You can pin more repos, like admin dashboard or infra configs, when they’re ready.)*
 
+##  NPM Packages
+| Package | Description |
+|---------|-------------|
+| **@ecom-co/eslint** | Shared ESLint configuration for e-commerce projects |
+| **@ecom-co/orm**     | Persistence layer (entities, transformers, repository utils) |
 ---
 
 ## 📅 Roadmap
