@@ -32,12 +32,11 @@ Our backend is powered by:
 
 *(You can pin more repos, like admin dashboard or infra configs, when they’re ready.)*
 
-##  NPM Packages
+## 📦 NPM Packages
 | Package | Description |
 |---------|-------------|
-| **@ecom-co/eslint** | Shared ESLint configuration for e-commerce projects |
-| **@ecom-co/orm**     | Persistence layer (entities, transformers, repository utils) |
----
+| [![npm](https://img.shields.io/npm/v/@ecom-co/eslint?logo=npm)](https://www.npmjs.com/package/@ecom-co/eslint) [`@ecom-co/eslint`](https://www.npmjs.com/package/@ecom-co/eslint) | Shared ESLint configuration for e-commerce projects |
+| [![npm](https://img.shields.io/npm/v/@ecom-co/orm?logo=npm)](https://www.npmjs.com/package/@ecom-co/orm) [`@ecom-co/orm`](https://www.npmjs.com/package/@ecom-co/orm) | Shared persistence layer (entities, transformers, repository utils) |
 
 ## 📅 Roadmap
 - Expand API features and integrations  
