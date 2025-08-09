@@ -1,5 +1,5 @@
 # 🛒 E-Commerce Platform Co
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hello+from+E-Commerce+Platform+Co)](https://git.io/typing-svg)
 >  **Empowering seamless online retail** — secure, scalable, and user-friendly eCommerce solutions.
 
 ---
