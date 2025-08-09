@@ -144,7 +144,6 @@
 |:---|:---:|:---:|:---|
 | [`@ecom-co/eslint`](https://www.npmjs.com/package/@ecom-co/eslint) | ![npm](https://img.shields.io/npm/dm/@ecom-co/eslint?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/eslint?style=flat-square) | ESLint configuration |
 | [`@ecom-co/orm`](https://www.npmjs.com/package/@ecom-co/orm) | ![npm](https://img.shields.io/npm/dm/@ecom-co/orm?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/orm?style=flat-square) | ORM utilities |
-| [`@ecom-co/ui`](https://www.npmjs.com/package/@ecom-co/ui) | ![npm](https://img.shields.io/npm/dm/@ecom-co/ui?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/ui?style=flat-square) | React UI components |
 | [`@ecom-co/utils`](https://www.npmjs.com/package/@ecom-co/utils) | ![npm](https://img.shields.io/npm/dm/@ecom-co/utils?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/utils?style=flat-square) | Common utilities |
 
 </div>
