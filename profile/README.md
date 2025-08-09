@@ -1,0 +1,68 @@
+# 🛒 E-Commerce Platform Co
+
+>  **Empowering seamless online retail** — secure, scalable, and user-friendly eCommerce solutions.
+
+---
+
+## 🌟 About Us
+We are a dynamic team building a modern **eCommerce platform** offering:
+- Rapid and intuitive shopping experience ⚡  
+- Secure checkout with multi-payment options 💳  
+- AI-powered smart recommendations and search 🤖  
+- Real-time order tracking and updates 📦
+
+---
+
+## 🏗 Tech Stack
+Our backend is powered by:
+- **NestJS** — Scalable and modular backend framework for Node.js  
+- **RabbitMQ** — Message broker for asynchronous communication  
+- **Redis** — In-memory data store for caching and real-time features  
+- **Elasticsearch** — Full-text search and analytics engine  
+- **PostgreSQL** — Reliable and powerful relational database  
+- **Docker** — Containerized deployment  
+- **CI/CD pipelines** — Automated testing and deployment workflows
+
+---
+
+## 📂 Featured Repositories
+| Repository | Description |
+|------------|-------------|
+| **ecom-backend** | Core backend services powering APIs and data flows |
+| **lib-eslint-config** | Shared ESLint configuration for consistent code quality |
+
+*(You can pin more repos, like admin dashboard or infra configs, when they’re ready.)*
+
+---
+
+## 📅 Roadmap
+- Expand API features and integrations  
+- Optimize performance & scalability  
+- Enhance security with modern authentication methods  
+- Add multi-currency, localization, and analytics
+
+---
+
+## 👥 Team
+- [@tuannvnguyen](https://github.com/tuannvnguyen)
+- [@nam077](https://github.com/nam077)
+
+---
+
+## 🤝 Contribute
+Contributions are welcome and appreciated!
+1. Fork the repository  
+2. Create a feature branch: `git checkout -b feature/xyz`  
+3. Commit your changes with clear messages  
+4. Open a Pull Request — let’s build together! 🚀
+
+---
+
+## 📬 Contact Us
+- **Email:** hello@ecommerce-platform.co  
+- **Website:** [ecommerce-platform.co](https://ecommerce-platform.co)  
+- **Twitter:** [@ecplatform](https://twitter.com/ecplatform)  
+
+---
+
+> _“Simplifying commerce with technology and passion.”_ 🛍️
