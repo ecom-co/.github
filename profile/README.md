@@ -218,7 +218,7 @@ gantt
 
 ## 🤝 **Join Our Community**
 
-<div align="center">
+<div>
 
 ### **Contributing Guidelines**
 
