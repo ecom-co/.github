@@ -1,8 +1,10 @@
 # 🛒 E-Commerce Platform Co
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hello+from+E-Commerce+Platform+Co)](https://git.io/typing-svg)
 >  **Empowering seamless online retail** — secure, scalable, and user-friendly eCommerce solutions.
-
 ---
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/40650493-0ab3-47d7-aaf6-ca9fecf586ae" />
+
 
 ## 🌟 About Us
 We are a dynamic team building a modern **eCommerce platform** offering:
