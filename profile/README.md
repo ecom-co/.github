@@ -142,8 +142,10 @@
 
 | Package | Downloads | Version | Description |
 |:---|:---:|:---:|:---|
-| [`@ecom-co/eslint`](https://www.npmjs.com/package/@ecom-co/eslint) | ![npm](https://img.shields.io/npm/dm/@ecom-co/eslint?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/eslint?style=flat-square) | ESLint configuration |
-| [`@ecom-co/orm`](https://www.npmjs.com/package/@ecom-co/orm) | ![npm](https://img.shields.io/npm/dm/@ecom-co/orm?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/orm?style=flat-square) | ORM utilities |
+| [`@ecom-co/eslint`](https://www.npmjs.com/package/@ecom-co/eslint) | ![npm](https://img.shields.io/npm/dm/@ecom-co/eslint?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/eslint?style=flat-square) | Shared ESLint configuration for e-commerce projects |
+| [`@ecom-co/orm`](https://www.npmjs.com/package/@ecom-co/orm) | ![npm](https://img.shields.io/npm/dm/@ecom-co/orm?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/orm?style=flat-square) | Shared persistence layer: entities, transformers, repository utils for e-commerce projects |
+| [`@ecom-co/redis`](https://www.npmjs.com/package/@ecom-co/redis) | ![npm](https://img.shields.io/npm/dm/@ecom-co/redis?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/redis?style=flat-square) | NestJS Redis module built on ioredis with multi-client support and optional health indicator |
+| [`@ecom-co/elasticsearch`](https://www.npmjs.com/package/@ecom-co/elasticsearch) | ![npm](https://img.shields.io/npm/dm/@ecom-co/elasticsearch?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/elasticsearch?style=flat-square) | Elasticsearch utilities and integration for e-commerce projects |
 | [`@ecom-co/utils`](https://www.npmjs.com/package/@ecom-co/utils) | ![npm](https://img.shields.io/npm/dm/@ecom-co/utils?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/utils?style=flat-square) | Common utilities |
 
 </div>
