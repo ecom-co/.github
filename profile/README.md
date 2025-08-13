@@ -121,16 +121,16 @@
 
 | Repository | Stars | Language | Description |
 |:---|:---:|:---:|:---|
-| 🚀 [**ecom-backend**](https://github.com/e-commerce-platform-co/ecom-backend) | ![Stars](https://img.shields.io/github/stars/e-commerce-platform-co/ecom-backend?style=social) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | **Main Service** - API Gateway & service orchestration |
-| 👤 [**user-service**](https://github.com/e-commerce-platform-co/user-service) | ![Stars](https://img.shields.io/github/stars/e-commerce-platform-co/user-service?style=social) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | **User Management** - Profiles & account services |
-| 🛍️ [**product-catalogue-service**](https://github.com/e-commerce-platform-co/product-catalogue-service) | ![Stars](https://img.shields.io/github/stars/e-commerce-platform-co/product-catalogue-service?style=social) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | **Product Catalog** - Product data & categories |
-| 🔍 [**search-service**](https://github.com/e-commerce-platform-co/search-service) | ![Stars](https://img.shields.io/github/stars/e-commerce-platform-co/search-service?style=social) | ![Elasticsearch](https://img.shields.io/badge/ES-005571?style=flat-square&logo=elasticsearch&logoColor=white) | **Search Engine** - Elasticsearch indexing & queries |
-| 📦 [**inventory-service**](https://github.com/e-commerce-platform-co/inventory-service) | ![Stars](https://img.shields.io/github/stars/e-commerce-platform-co/inventory-service?style=social) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | **Inventory Management** - Stock tracking & updates |
-| 🛒 [**order-service**](https://github.com/e-commerce-platform-co/order-service) | ![Stars](https://img.shields.io/github/stars/e-commerce-platform-co/order-service?style=social) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | **Order Processing** - Cart & transaction handling |
-| 🚚 [**fulfillment-service**](https://github.com/e-commerce-platform-co/fulfillment-service) | ![Stars](https://img.shields.io/github/stars/e-commerce-platform-co/fulfillment-service?style=social) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | **Fulfillment** - Shipping & delivery management |
-| 🔔 [**notification-service**](https://github.com/e-commerce-platform-co/notification-service) | ![Stars](https://img.shields.io/github/stars/e-commerce-platform-co/notification-service?style=social) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | **Notifications** - Email, SMS & push notifications |
-| 📊 [**analytics-service**](https://github.com/e-commerce-platform-co/analytics-service) | ![Stars](https://img.shields.io/github/stars/e-commerce-platform-co/analytics-service?style=social) | ![Elasticsearch](https://img.shields.io/badge/ES-005571?style=flat-square&logo=elasticsearch&logoColor=white) | **Analytics** - Business metrics & reporting |
-| 🔐 [**auth-service**](https://github.com/e-commerce-platform-co/auth-service) | ![Stars](https://img.shields.io/github/stars/e-commerce-platform-co/auth-service?style=social) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | **Authentication** - JWT & authorization service |
+| 🚀 [**ecom-backend**](https://github.com/ecom-co/backend) | ![Stars](https://img.shields.io/github/stars/ecom-co/ecom-backend?style=social) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | **Main Service** - API Gateway & service orchestration |
+| 👤 [**user-service**](https://github.com/ecom-co/user-service) | ![Stars](https://img.shields.io/github/stars/ecom-co/user-service?style=social) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | **User Management** - Profiles & account services |
+| 🛍️ [**product-catalogue-service**](https://github.com/ecom-co/product-catalogue-service) | ![Stars](https://img.shields.io/github/stars/ecom-co/product-catalogue-service?style=social) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | **Product Catalog** - Product data & categories |
+| 🔍 [**search-service**](https://github.com/ecom-co/search-service) | ![Stars](https://img.shields.io/github/stars/ecom-co/search-service?style=social) | ![Elasticsearch](https://img.shields.io/badge/ES-005571?style=flat-square&logo=elasticsearch&logoColor=white) | **Search Engine** - Elasticsearch indexing & queries |
+| 📦 [**inventory-service**](https://github.com/ecom-co/inventory-service) | ![Stars](https://img.shields.io/github/stars/ecom-co/inventory-service?style=social) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | **Inventory Management** - Stock tracking & updates |
+| 🛒 [**order-service**](https://github.com/ecom-co/order-service) | ![Stars](https://img.shields.io/github/stars/ecom-co/order-service?style=social) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | **Order Processing** - Cart & transaction handling |
+| 🚚 [**fulfillment-service**](https://github.com/ecom-co/fulfillment-service) | ![Stars](https://img.shields.io/github/stars/ecom-co/fulfillment-service?style=social) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | **Fulfillment** - Shipping & delivery management |
+| 🔔 [**notification-service**](https://github.com/ecom-co/notification-service) | ![Stars](https://img.shields.io/github/stars/ecom-co/notification-service?style=social) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | **Notifications** - Email, SMS & push notifications |
+| 📊 [**analytics-service**](https://github.com/ecom-co/analytics-service) | ![Stars](https://img.shields.io/github/stars/ecom-co/analytics-service?style=social) | ![Elasticsearch](https://img.shields.io/badge/ES-005571?style=flat-square&logo=elasticsearch&logoColor=white) | **Analytics** - Business metrics & reporting |
+| 🔐 [**auth-service**](https://github.com/ecom-co/auth-service) | ![Stars](https://img.shields.io/github/stars/ecom-co/auth-service?style=social) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | **Authentication** - JWT & authorization service |
 
 </div>
 
@@ -142,11 +142,11 @@
 
 | Package | Downloads | Version | Description |
 |:---|:---:|:---:|:---|
-| [`@ecom-co/eslint`](https://www.npmjs.com/package/@ecom-co/eslint) | ![npm](https://img.shields.io/npm/dm/@ecom-co/eslint?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/eslint?style=flat-square) | Shared ESLint configuration for e-commerce projects |
-| [`@ecom-co/orm`](https://www.npmjs.com/package/@ecom-co/orm) | ![npm](https://img.shields.io/npm/dm/@ecom-co/orm?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/orm?style=flat-square) | Shared persistence layer: entities, transformers, repository utils for e-commerce projects |
-| [`@ecom-co/redis`](https://www.npmjs.com/package/@ecom-co/redis) | ![npm](https://img.shields.io/npm/dm/@ecom-co/redis?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/redis?style=flat-square) | NestJS Redis module built on ioredis with multi-client support and optional health indicator |
-| [`@ecom-co/elasticsearch`](https://www.npmjs.com/package/@ecom-co/elasticsearch) | ![npm](https://img.shields.io/npm/dm/@ecom-co/elasticsearch?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/elasticsearch?style=flat-square) | Elasticsearch utilities and integration for e-commerce projects |
-| [`@ecom-co/utils`](https://www.npmjs.com/package/@ecom-co/utils) | ![npm](https://img.shields.io/npm/dm/@ecom-co/utils?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/utils?style=flat-square) | Common utilities |
+| [`@ecom-co/eslint`](https://github.com/orgs/ecom-co/packages/npm/package/eslint) | ![npm](https://img.shields.io/npm/dm/@ecom-co/eslint?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/eslint?style=flat-square) | Shared ESLint configuration for e-commerce projects |
+| [`@ecom-co/orm`](https://github.com/orgs/ecom-co/packages/npm/package/orm) | ![npm](https://img.shields.io/npm/dm/@ecom-co/orm?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/orm?style=flat-square) | Shared persistence layer: entities, transformers, repository utils for e-commerce projects |
+| [`@ecom-co/redis`](https://github.com/orgs/ecom-co/packages/npm/package/redis) | ![npm](https://img.shields.io/npm/dm/@ecom-co/redis?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/redis?style=flat-square) | NestJS Redis module built on ioredis with multi-client support and optional health indicator |
+| [`@ecom-co/elasticsearch`](https://github.com/orgs/ecom-co/packages/npm/package/elasticsearch) | ![npm](https://img.shields.io/npm/dm/@ecom-co/elasticsearch?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/elasticsearch?style=flat-square) | Elasticsearch utilities and integration for e-commerce projects |
+| [`@ecom-co/utils`](https://github.com/orgs/ecom-co/packages/npm/package/utils) | ![npm](https://img.shields.io/npm/dm/@ecom-co/utils?style=flat-square) | ![version](https://img.shields.io/npm/v/@ecom-co/utils?style=flat-square) | Common utilities |
 
 </div>
 
@@ -226,7 +226,7 @@ gantt
 
 ```bash
 # 1. Fork and clone the repository
-git clone https://github.com/e-commerce-platform-co/[repo-name].git
+git clone https://github.com/ecom-co/[repo-name].git
 
 # 2. Create your feature branch
 git checkout -b feature/amazing-feature
@@ -266,7 +266,7 @@ We foster an inclusive environment where everyone can contribute. Please read ou
 [![Website](https://img.shields.io/badge/Website-ecommerce--platform.co-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ecommerce-platform.co)
 [![Email](https://img.shields.io/badge/Email-hello@ecommerce--platform.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@ecommerce-platform.co)
 [![Twitter](https://img.shields.io/badge/Twitter-@ecplatform-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ecplatform)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Company-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/ecommerce-platform-co)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Company-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/ecom-co)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ecom-platform)
 
 </div>
