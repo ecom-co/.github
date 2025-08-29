@@ -212,7 +212,7 @@ gantt
 | Team Member | Role | GitHub | Expertise |
 |:---|:---:|:---:|:---|
 | **Tuan Nguyen** | Senior Backend Engineer | [@tuannvnguyen](https://github.com/tuannvnguyen) | Distributed Systems, Backend Developer |
-| **Nam Nguyen** | Backend Engineer | [@nam077](https://github.com/nam077) | Backend Developer |
+| **Nam Nguyen** | Backend Engineer | [@nam088](https://github.com/nam088) | Backend Developer |
 
 </div>
 
@@ -251,9 +251,9 @@ We foster an inclusive environment where everyone can contribute. Please read ou
 
 <div align="center">
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuannvnguyen&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nam077&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuannvnguyen&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nam088&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff) |
 | --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuannvnguyen&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nam077&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuannvnguyen&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nam088&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff) |
 
 </div>
 
